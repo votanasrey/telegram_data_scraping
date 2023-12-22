@@ -1,0 +1,17 @@
+python-telegram-bot
+telethon
+python-dotenv==1.0.0
+PyMySQL==1.0.3
+pydantic==1.10.8
+pandas==2.0.2
+h11==0.14.0
+h2==4.1.0
+hpack==4.0.0
+httpcore==0.17.2
+httpx==0.24.1
+hyperframe==6.0.1
+numpy==1.24.3
+requests==2.31.0
+SQLAlchemy==1.4.48
+pyrogram
+TgCrypto   
